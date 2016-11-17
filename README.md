@@ -1,2 +1,3 @@
 # Perceptron
+# A little about myself: I am 40 years old...
 My first Perceptron
